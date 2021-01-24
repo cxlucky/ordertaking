@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: 
+Specification-Version: 3.0
+Specification-Title: 基于mysearch2s，用JDBC实现图片上传至数据库，并支持图片搜索
